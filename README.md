@@ -26,3 +26,7 @@ Use the following to train the model
 
 - pretrain dncnn: ``python ./scripts/script_pretrain.py``. The output is supposed to be in ``./results/dncnn_pretrain/``
 - train DE-GRAD with JFB: ``python ./scripts/script_fixlr.py``. The output is supposed to be in ``./results/degrad_fixlr/``
+
+# Acknowledgements
+
+This work is partially supported by the US National Science foundation award DMS-2051019. Any opinions, findings, and conclusions or recommendations expressed on this website are those of the author(s) and do not necessarily reflect the views of the funding agency.
